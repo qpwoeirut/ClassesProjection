@@ -1,12 +1,12 @@
-Biology
-Biology Honors
-Chemistry
-Chemistry Honors
-Conceptual Physics
-Physics
-AP Physics 1
-AP Physics C
-AP Chemistry
-AP Biology
-Other Science
-No class at Gunn
+Reg | Biology
+Hon | Biology Honors
+Reg | Chemistry
+Hon | Chemistry Honors
+Reg | Conceptual Physics
+Reg | Physics
+Hon | AP Physics 1
+Hon | AP Physics C
+Hon | AP Chemistry
+Hon | AP Biology
+Reg | Other Science
+Reg | No class at Gunn

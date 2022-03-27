@@ -1,13 +1,14 @@
-Algebra 1A
-Geometry Non-Honors
-Geometry H
-Algebra 2
-Algebra 2 Trigonometry A
-Algebra 2 Trigonometry H
-Pre-Calculus
-Introduction to Analysis & Calculus
-Analysis H
-AP Calculus AB
-AP Calculus BC
-Math Elective
-No class at Gunn
+Reg | Algebra 1A
+Reg | Geometry Non-Honors
+Hon | Geometry H
+Reg | Algebra 2
+Reg | Algebra 2 Trigonometry A
+Hon | Algebra 2 Trigonometry H
+Reg | Pre-Calculus
+Reg | Introduction to Analysis & Calculus
+Hon | Analysis H
+Reg | AP Calculus AB
+Hon | AP Calculus BC
+Hon | Multivariable Calculus
+Reg | Math Elective
+Reg | No class at Gunn
