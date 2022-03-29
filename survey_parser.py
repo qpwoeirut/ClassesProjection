@@ -1,5 +1,4 @@
 import csv
-from enum import Enum
 
 # column numbers
 TIMESTAMP = 0
