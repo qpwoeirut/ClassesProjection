@@ -150,7 +150,7 @@ def main():
     print("Regular to Honors:", math_reg_to_honors * 100)
     print("Honors to Regular:", math_honors_to_reg * 100)
     print("Honors Retained:  ", math_honors_retained * 100)
-
+    print()
     print("–" * 10, "Science", "–" * 10)
     print("Regular to Honors:", science_reg_to_honors * 100)
     print("Honors to Regular:", science_honors_to_reg * 100)
